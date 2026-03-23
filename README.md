@@ -102,7 +102,17 @@ The application is accessible via:
 ```
 http://<PUBLIC-IP>
 ```
+## Screenshots
 
+### EC2 Instance Running
+
+![EC2 Running](docs/screenshots/ec2-running.png)
+
+---
+
+### Nginx Web Server Accessible via Public IP
+
+![Nginx Running](docs/screenshots/nginx-page.png)
 ---
 
 ## Key Engineering Decisions
